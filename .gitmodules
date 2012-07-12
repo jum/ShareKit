@@ -13,3 +13,6 @@
 [submodule "Submodules/evernote-ios-sdk"]
 	path = Submodules/evernote-ios-sdk
 	url = https://github.com/evernote/evernote-sdk-ios.git
+[submodule "Submodules/Reachability"]
+	path = Submodules/Reachability
+	url = https://github.com/jum/Reachability.git
